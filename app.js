@@ -1,7 +1,7 @@
-console.log("hello");
-const age = 30;
-const count = 17;
+console.log("hell");
 
+const count = 17;
+const age = 30;
 let name = "Alice";
 
 let surname = "Smith";
