@@ -1,5 +1,5 @@
 console.log("hello");
-
+const age = 30;
 const count = 17;
 
 let name = "Alice";
