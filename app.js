@@ -10,3 +10,4 @@ const isActive2748 = true;
 
 
 let addRemoute = 'Hello from remote repo'
+const PI = 3.14;
