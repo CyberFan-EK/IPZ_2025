@@ -7,3 +7,6 @@ let name = "Alice";
 let surname = "Smith";
 
 const isActive2748 = true;
+
+
+let addRemoute = 'Hello from remote repo'
